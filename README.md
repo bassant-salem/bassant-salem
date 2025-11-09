@@ -1,10 +1,5 @@
 # Hi there, I'm Bassant Salem! 👋
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=bassant-salem&color=blueviolet)
-  
-</div>
 
 ## 👨‍💻 About Me
 
