@@ -117,19 +117,7 @@ Simple Unity game project exploring game development fundamentals.
 
 **Tech**: C#, Unity
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Bassant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bassant-salem&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bassant-salem&layout=compact&theme=radical)
-  
-</div>
-
----
 
 ## 💼 What I Bring to the Table
 
