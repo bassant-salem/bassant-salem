@@ -155,15 +155,11 @@ Simple Unity game project exploring game development fundamentals.
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](http://www.linkedin.com/in/bassant-salem-9b200a238)
-[![Email](bassantsalem605@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/bassant-salem-9b200a238)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bassantsalem605@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bassant-salem)
 
----
 
-
-
----
 
 <div align="center">
   
@@ -177,6 +173,3 @@ Simple Unity game project exploring game development fundamentals.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
