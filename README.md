@@ -42,21 +42,6 @@
 
 ## 🚀 Featured Projects
 
-### 💰 [Personal Finance Management System](https://github.com/bassant-salem/Finance_App)
-**ASP.NET Core MVC | Entity Framework Core | SQL Server | Bootstrap**
-
-A comprehensive financial management web application for tracking income, expenses, budgets, and financial goals.
-
-- ✅ Secure authentication with ASP.NET Identity
-- ✅ Interactive dashboard with Chart.js visualizations
-- ✅ Budget tracking and goal monitoring
-- ✅ Responsive design for all devices
-- ✅ Applied SOLID principles and Repository pattern
-
-**Tech**: C#, ASP.NET Core MVC, EF Core, SQL Server, LINQ, Bootstrap, Chart.js
-
----
-
 ### 🌮 [TacoTales - Restaurant Management System](https://github.com/bassant-salem/TacoTales)
 **ASP.NET Core 9 MVC | Entity Framework Core | SQL Server | Bootstrap**
 
@@ -71,6 +56,20 @@ Full-featured restaurant management system with e-commerce capabilities.
 - ✅ Role-based authorization (Customer/Admin)
 
 **Tech**: C#, ASP.NET Core 9, EF Core, SQL Server, LINQ, Bootstrap 5
+
+---
+### 💰 [Personal Finance Management System](https://github.com/bassant-salem/Finance_App)
+**ASP.NET Core MVC | Entity Framework Core | SQL Server | Bootstrap**
+
+A comprehensive financial management web application for tracking income, expenses, budgets, and financial goals.
+
+- ✅ Secure authentication with ASP.NET Identity
+- ✅ Interactive dashboard with Chart.js visualizations
+- ✅ Budget tracking and goal monitoring
+- ✅ Responsive design for all devices
+- ✅ Applied SOLID principles and Repository pattern
+
+**Tech**: C#, ASP.NET Core MVC, EF Core, SQL Server, LINQ, Bootstrap, Chart.js
 
 ---
 
