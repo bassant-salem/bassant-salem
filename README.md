@@ -46,6 +46,7 @@
 **ASP.NET Core 9 MVC | Entity Framework Core | SQL Server | Bootstrap**
 
 🌐 **Live Demo**: [tacotales.runasp.net](http://tacotales.runasp.net)
+
 Full-featured restaurant management system with e-commerce capabilities.
 
 - ✅ Complete shopping cart and checkout flow
@@ -93,6 +94,7 @@ A fully functional streaming platform clone built with React and Firebase.
 **React.js | JavaScript**
 
 🌐 **Live Demo**: [crypto-project-sandy.vercel.app](https://crypto-project-sandy.vercel.app)
+
 Real-time cryptocurrency price tracking application.
 
 - ✅ Live price updates
