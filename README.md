@@ -45,7 +45,7 @@
 ### 🌮 [TacoTales - Restaurant Management System](https://github.com/bassant-salem/TacoTales)
 **ASP.NET Core 9 MVC | Entity Framework Core | SQL Server | Bootstrap**
 
-🌐 **Live Demo**: [tacotales.runasp.net](http://tacotales.runasp.net)
+🌐 **Live Demo**: [tacotales.runasp.net](https://tacotales.runasp.net)
 
 Full-featured restaurant management system with e-commerce capabilities.
 
