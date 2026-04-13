@@ -59,6 +59,7 @@ A comprehensive financial management web application for tracking income, expens
 
 ### 🌮 [TacoTales - Restaurant Management System](https://github.com/bassant-salem/TacoTales)
 **ASP.NET Core 9 MVC | Entity Framework Core | SQL Server | Bootstrap**
+
 🌐 **Live Demo**: [tacotales.runasp.net](http://tacotales.runasp.net)
 Full-featured restaurant management system with e-commerce capabilities.
 
@@ -75,6 +76,7 @@ Full-featured restaurant management system with e-commerce capabilities.
 
 ### 🎬 [Netflix Clone](https://github.com/bassant-salem/Netflix-Clone)
 **React.js | Firebase | JavaScript**
+
 🌐 **Live Demo**: [netflix-clone-iota-cyan.vercel.app](https://netflix-clone-iota-cyan.vercel.app)
 
 A fully functional streaming platform clone built with React and Firebase.
@@ -90,6 +92,7 @@ A fully functional streaming platform clone built with React and Firebase.
 
 ### 💱 [Cryptocurrency Price Tracker](https://github.com/bassant-salem/cryptoProject)
 **React.js | JavaScript**
+
 🌐 **Live Demo**: [crypto-project-sandy.vercel.app](https://crypto-project-sandy.vercel.app)
 Real-time cryptocurrency price tracking application.
 
